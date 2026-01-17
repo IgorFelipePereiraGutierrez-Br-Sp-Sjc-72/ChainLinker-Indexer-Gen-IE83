@@ -1,4 +1,6 @@
 # ChainLinker-Indexer-Gen-IE83
-Project to control my comunicatios with stamped ID's, generated under ascendent line, to don't lose control about my documentations, for all comunications, with Locker Proof of Identity.
+- Project to control my comunicatios with stamped ID's, generated under ascendent line, to don't lose control about my documentations, for all comunications, with "Locker Proof of Hypnotic Identity".
 
-ID: #TX-170120261212-1-8-IFPG-440422115
+- The Id's are created manually, to correctly EC energy data, be applied.
+
+ID: #TX-170120261218-1-9-IFPG-440422115
